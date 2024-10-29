@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @jakefromnutrien
+- 👀 I’m interested in ... golf, fly fishing, coding, anime
+- 🌱 I’m currently learning ... Kubernetes (K8s), OpenSearch
+- 💞️ I’m looking to collaborate on ... [Not open for collaboration—dedicated to my Nutrien team!]
+- 📫 How to reach me ... jake.armijo@nutrien.com
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I once lacerated my kidney playing hockey!
